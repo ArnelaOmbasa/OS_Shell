@@ -2,7 +2,7 @@
 
 ## About The Project
 
-Ar&ElShell is a project submission in course CEN232 Operating Systems at International Burch University. Project is done by Arnela Ombasa and Elma Sarajlic. Project is consisted out of three parts: shell.c is a solution to 1.1, 1.2. and 1.4 tasks, task3.c is a solution to task 1.3 and also implements 1.4. Task5.txt has answers to questions given in 1.5. 
+Ar&ElShell is a project submission in course Operating Systems at International Burch University. Project is done by Arnela Ombasa and Elma Sarajlic. Project is consisted out of three parts: shell.c is a solution to 1.1, 1.2. and 1.4 tasks, task3.c is a solution to task 1.3 and also implements 1.4. Task5.txt has answers to questions given in 1.5. 
 
 shell.c has implementations for the following commands:
 * uptime
@@ -27,22 +27,20 @@ Q2: Explain the purpose of a system call. Describe how control passes to the ker
 This is an explanation of how to download and run this your project locally.
 To get a local copy and run them follow these simple example steps.
 
-
-
 ### Installation
 
 1. Clone the repo
-   ```sh
+ 
    git clone https://github.com/ArnelaOmbasa/OS_Shell.git
-   ```
+ 
 2. Compile shell.c using gcc compiler
-   ```
+  
    gcc shell.c -o shell
-   ```
+  
 3. Compile task3.c using gcc compiler
-   ```
+
    gcc task3.c -o task3
-   ```
+
 4. Run using ./shell for shell or ./task3 for task3
 
 
@@ -50,10 +48,10 @@ To get a local copy and run them follow these simple example steps.
 ## Usage
 
 Shell part provides you with help command:
- ```
+
    help - gives list of all available commands
    help[command] - gives explanation how given command is used
- ```
+ 
 Task3 part provides you with interactive menu that is navigated through using standard keyboard input.
 
 
