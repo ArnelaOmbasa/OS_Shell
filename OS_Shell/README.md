@@ -19,7 +19,9 @@ task3.c has implementations for the following system calls:
 * forkbomb - crashing PC using fork()
 
 Task5.txt has answers for the following questions:
+
 Q1: The following actions, do they require the OS to use kernel mode or user mode is sufficient? Explain. Starting a new process. Multiplying two floating numbers stored in an application’s memory.Writing the results of the multiplication to a temporary log file on disk.
+
 Q2: Explain the purpose of a system call. Describe how control passes to the kernel when executing a system call.
 
  
