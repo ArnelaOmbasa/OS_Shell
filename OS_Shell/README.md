@@ -75,8 +75,3 @@ https://www.geeksforgeeks.org/fork-system-call/
 3. Task5.txt ---> contains answers to the questions of task 1.5 <br />
 4. shell.c <br />
 5. task3.c file <br/>
-6. mydirectory ---> directory made by us with mkdir command
-
-
-
-
